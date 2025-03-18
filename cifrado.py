@@ -1,9 +1,10 @@
 texto=input("Tu texto: ")
 if texto== texto.upper():
-    abc="ABCDEFGHIJKLMNOPQRSTVXYZ"
+    abc="juana joselinne tellez"
+
 else:
-    abc="abcdefghijklmnopqrstuvwxyz"
-k=int(input("Valor de desplazamiento "))
+    abc="juana jsoelinne z"
+k=int(input("yoss 2d"))
 cifrad=""
 for c in texto:
     if c in abc:
